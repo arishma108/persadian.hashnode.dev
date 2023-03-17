@@ -1,2 +1,2 @@
 # persadian.hashnode.dev
-a back up my old and new devtools, engineering and open-source articles 
+a back up of my old and new devtools, engineering and open-source articles 
